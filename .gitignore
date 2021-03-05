@@ -1,4 +1,3 @@
 .idea
 venv
-.pyc
-*/.pyc
+*.pyc
